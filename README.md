@@ -25,7 +25,7 @@ Feel free to use any other project you want.
 
 2. [Using PMD](/using-pmd.md)
 
-3. [Extending PMD](/extending.pmd)
+3. [Extending PMD](/extending-pmd.md)
 
 4. [No getter!](/no-getter.md)
 
