@@ -8,7 +8,3 @@ Ignore inherited members to compute TCC of a class.
 Include in this repository the code of your application. Remove all unnecessary files like compiled binaries. Do include the reports and plots you obtained from different projects. See the [instructions](/README.md) for suggestions on the projects to use.
 
 You may use [javaparser-starter](/javaparser-starter) as a starting point.
-
-*This exercise grants bonus points.*
-
-**Additional Extra Bonus**: Make your application produce the dependency graph of all classes. The graph should be written using the [GraphViz DOT format](https://www.graphviz.org/)
